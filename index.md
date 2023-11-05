@@ -37,7 +37,7 @@
     company using multi-level authentication, including authorization by the 
     company officials.
     - The payment now can be distributed to all the employees simultaneously with ease.
-    - 
+    
 ## Hackathons
 - GreenPill Festival Hack:  
     - A decentralized platform that enables individuals to contribute to the welfare of animals in wildlife 
