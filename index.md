@@ -3,9 +3,9 @@
 
 
 <p align="middle">
-<a href="https://twitter.com/aswiniat100" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="aswiniat100"  /></a>
-  
-<a href="https://linkedin.com/in/aswiniat100" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="aswiniat100" /></a>
+<a href="https://twitter.com/aswiniat100" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="aswiniat100" style="width: 150px;height:50px;" /></a>
+
+<a href="https://linkedin.com/in/aswiniat100" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="aswiniat100" style="width: 150px;height:50px;" /></a>
 </p>
 
  <BR CLEAR="left" />
