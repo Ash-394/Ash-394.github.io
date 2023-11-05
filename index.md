@@ -1,3 +1,3 @@
 # A T Aswini
-![!](/images/Aswini2.jpeg)
-### Computer Science undergrad
+![!](/images/Aswini2.jpg)
+### Computer Science undergrad at Government Engineering College Thrissur
