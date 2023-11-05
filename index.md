@@ -2,9 +2,9 @@
 <img src="/images/Aswini2.jpg" width="200" height="200" align="left" >
 
 
-<p >
+<p align="middle">
 <a href="https://twitter.com/aswiniat100" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="aswiniat100"  /></a>
-  <br/>
+  
 <a href="https://linkedin.com/in/aswiniat100" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="aswiniat100" /></a>
 </p>
 
@@ -36,9 +36,9 @@
   - Each company can register as an individual entity, and employees can be added to the 
     company using multi-level authentication, including authorization by the 
     company officials.
-    - The payment now can be distributed to all the employees simultaneously with ease. 
+    - The payment now can be distributed to all the employees simultaneously with ease.
+    - 
 ## Hackathons
-HACKATHONS 
 - GreenPill Festival Hack:  
     - A decentralized platform that enables individuals to contribute to the welfare of animals in wildlife 
       conservation through a transparent and accountable sponsorship process. 
